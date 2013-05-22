@@ -1,0 +1,21 @@
+{
+  "name": "navjs",
+  "version": "0.0.0",
+  "description": "navigation management for single page applications",
+  "main": "nav.js",
+  "dependencies": {
+    "lodash": "~1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "tap ./test"
+  },
+  "repository": "",
+  "keywords": [
+    "navigation",
+    "spa"
+  ],
+  "author": "yoni.shalom",
+  "license": "BSD",
+  "gitHead": "5f6aef0aee66a519bce855a0abfb475b33ffee32"
+}
