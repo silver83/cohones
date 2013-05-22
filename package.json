@@ -4,7 +4,8 @@
   "description": "navigation management for single page applications",
   "main": "nav.js",
   "dependencies": {
-    "lodash": "~1.2.1"
+    "lodash": "~1.2.1",
+    "should": "~1.2.2"
   },
   "devDependencies": {},
   "scripts": {
