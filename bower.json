@@ -1,0 +1,7 @@
+{
+  "name": "navjs",
+  "version": "0.0.0",
+  "dependencies": {
+    "chai": "*"
+  }
+}
